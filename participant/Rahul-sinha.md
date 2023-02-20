@@ -1,4 +1,4 @@
-Shrasti Gupta
+Shrasti gupta and rahul is a patner
 Rahul kumar sinha
 knoldus Intern 
 emp.1878 
