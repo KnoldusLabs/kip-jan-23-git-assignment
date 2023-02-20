@@ -1,5 +1,2 @@
-Name: Aman Srivastava
-Age: 25
-College: Amity University
-Course: MCA
-Company: Knoldus Inc.
+hi this is krishna, from knoluds. // This file is modified by aman srivastava
+my emp code is 1868
