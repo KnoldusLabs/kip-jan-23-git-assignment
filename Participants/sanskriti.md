@@ -1,4 +1,4 @@
-My name is Sanskriti Tiwari
+My name is Sanskriti Tiwari and i am an intern in knoldus
 College : Birla Institute of Technology , Mesra , Noida
 Employee Id : 1867
 Status : Intern
