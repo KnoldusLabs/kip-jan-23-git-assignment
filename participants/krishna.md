@@ -1,2 +1,7 @@
-hi this is krishna, from knoluds. // This file is modified by aman srivastava
-my emp code is 1868
+Name: Aman Srivastava    #this file is modified by krishna
+Age: 25
+College: Amity University
+Course: MCA
+Company: Knoldus Inc.
+
+
